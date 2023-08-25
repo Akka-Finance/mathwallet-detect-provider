@@ -1,0 +1,1 @@
+# @akkafinance/mathwallet-detect-provider
